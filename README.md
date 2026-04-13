@@ -14,15 +14,15 @@ O script tenta realizar um "aperto de mão" (TCP Handshake) em um intervalo de p
 
 **1. Clone o repositório:**
 
-   bash
-   
-   git clone [https://github.com/rodrigopereiradevelopment/port-scanner-python.git](https://github.com/rodrigopereiradevelopment/port-scanner-python.git)
+   ```bash
+    git clone [https://github.com/rodrigopereiradevelopment/port-scanner-python.git](https://github.com/rodrigopereiradevelopment/port-scanner-python.git)
+```
 
 **2. Execute o script:**
 
-Bash
-
+```bash
 python3 scanner.py
+```
 
 **3. Digite o IP do alvo:**
 
