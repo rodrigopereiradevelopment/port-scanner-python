@@ -31,3 +31,6 @@ python3 scanner.py
 ⚠️ **Aviso Legal**
 
 Este projeto foi desenvolvido para fins estritamente educacionais e de auditoria em redes próprias.
+
+## ⚖️ Licença
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
